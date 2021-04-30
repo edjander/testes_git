@@ -1,2 +1,4 @@
  a = input('Nome do usuario:')
  print(a)
+
+print("Nome digitado: " + a)
